@@ -1,0 +1,68 @@
+https://howtodoinjava.com/
+https://www.javatpoint.com/
+https://javarevisited.blogspot.com/
+https://www.javacodegeeks.com/
+https://dzone.com/
+https://www.baeldung.com/
+https://docs.oracle.com/
+
+Advantages of Hibernate compared to JDBC
+•
+ORM (Object Relational Mapping)
+•
+Hibernate Architecture
+•
+Hibernate Resources
+•
+Object Life Cycle in Hibernate
+•
+CRUD operations using Session methods
+•
+Problem of Granularity, Inheritance and Relationship
+8
+2
+Spring Introduction
+•
+Spring Architecture
+•
+Spring Framework
+•
+Declaring and Managing Beans
+•
+Inversion of Control Pattern
+•
+BeanFactory vs ApplicationContext
+•
+Dependencies and Dependency Injection (DI)
+•
+XML Configuration of DI
+•
+Spring Bean Autowiring
+•
+Injection with @Autowire
+•
+Java Based Configuration
+8
+3
+Container Extensions Points
+•
+Bean Scope and Lifecycle
+•
+Singleton, Prototype, and Other Scopes
+•
+Configuring Scope
+•
+Bean Lifecycle / Callbacks
+8
+4
+DAO Introduction
+•
+JDBC limitations
+•
+Spring JDBC/DAO Advantages
+•
+Working with different Data Sources
+•
+JdbcTemplate
+•
+ 
