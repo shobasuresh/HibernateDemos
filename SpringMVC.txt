@@ -23,3 +23,17 @@ dispatcher-servlet.xml
 		http://www.springframework.org/schema/beans/spring-beans.xsd
 		http://www.springframework.org/schema/context
 		http://www.springframework.org/schema/context/spring-context.xsd">
+
+
+*************
+
+For those who have servlet version 2.3
+
+<web-app
+    version="4.0"
+    xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+    xmlns:javaee="http://xmlns.jcp.org/xml/ns/javaee"
+    xmlns:xml="http://www.w3.org/XML/1998/namespace"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd">
+  <display-name>Archetype Created Web Application</display-name>
