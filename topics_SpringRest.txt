@@ -1,0 +1,139 @@
+Advantages of Hibernate compared to JDBC
+•
+ORM (Object Relational Mapping)
+•
+Hibernate Architecture
+•
+Hibernate Resources
+•
+Object Life Cycle in Hibernate
+•
+CRUD operations using Session methods
+•
+Problem of Granularity, Inheritance and Relationship
+8
+2
+Spring Introduction
+•
+Spring Architecture
+•
+Spring Framework
+•
+Declaring and Managing Beans
+•
+Inversion of Control Pattern
+•
+BeanFactory vs ApplicationContext
+•
+Dependencies and Dependency Injection (DI)
+•
+XML Configuration of DI
+•
+Spring Bean Autowiring
+•
+Injection with @Autowire
+•
+Java Based Configuration
+8
+3
+Container Extensions Points
+•
+Bean Scope and Lifecycle
+•
+Singleton, Prototype, and Other Scopes
+•
+Configuring Scope
+•
+Bean Lifecycle / Callbacks
+8
+4
+DAO Introduction
+•
+JDBC limitations
+•
+Spring JDBC/DAO Advantages
+•
+Working with different Data Sources
+•
+JdbcTemplate
+•
+Spring JDBC/DAO with Annotations
+4
+Course Design Document
+Course Design Document | 4 December 2024 | Proprietary and confidential information. © 2024 Mphasis 2
+4
+Spring Transaction Management
+•
+Transaction Management
+•
+Local Transaction Vs Distributed Transaction
+•
+Need of Spring Transaction Management
+•
+Spring ORM with HibernateTemplate
+•
+Spring Transaction management
+4
+5
+Spring Web Integration
+•
+MVC
+•
+MVC1, MVC2 Architectures
+•
+Front Controller Design Pattern
+•
+Spring MVC Basics
+•
+Configuration and the DispatcherServlet
+•
+@Controller, @RequestMapping
+•
+@RequestParam and Parameter Binding
+•
+View Resolvers
+•
+@RequestParam, @PathVariable
+•
+Model Data and @ModelAttribute
+8
+6
+Spring Boot Introduction
+•
+Introduction to Spring Boot
+•
+Spring Boot Hello World
+•
+SpringBootApplication
+2
+6
+Spring Boot Database Support"
+•
+Basic Auto-configuration - DataSource and Pooling
+•
+Configuring Spring Data
+•
+Repositories and JPA Repositories
+•
+Using CrudRepository
+•
+Spring Data Querying
+6
+7
+Spring Boot Web/REST
+•
+RESTful Services with Spring
+•
+REST Overview, URI Templates
+•
+REST and Spring MVC
+•
+Spring support for REST
+•
+@RequestMapping/@PathVariable, @RequestBody, @ResponseBody
+•
+URI Templates and @PathVariable
+•
+Controllers with @RestController
+•
+Functional Testing with Postman
